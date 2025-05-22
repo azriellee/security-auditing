@@ -23,8 +23,18 @@ I think it was good practice for me to read and understand the code base and int
 
 ## Results Summary:
 
-NA (Still judging)
+Rank: 8
+Results: 4 High, 1 Medium, 2 Low
+
+[H] `LevelOne:graduateAndUpgrade` Does Not Perform Actual Upgrade Or Initialization
+[H] `LevelOne:graduateAndUpgrade` Does Not Filter Students Below Cutoff
+[H] Payment Disrbursement When `LevelOne:graduateAndUpgrade` Called Is Incorrect
+[H] `LevelOne:graduateAndUpgrade` Lacks Review Count Check
+[M] Mismatch In Storage Layout Of `LevelOne` And `LevelTwo`
+[L] `LevelOne:giveReview` Does Not Increment `reviewCount`
+[L] `LevelOne:graduateAndUpgrade` Can Be Called Before `sessionEnd` Reached
 
 ### Findings Missed:
 
-NA (Still judging)
+[H] No Mechanism to handle remaining bursary funds locked within contract
+[M] Unprotected Initialization
