@@ -8,7 +8,7 @@ This repo holds all the reports for actual security auditing contests that I hav
 
 ## About Me
 
-I'm a soon to be graduate in Computer Science and I've been learning about the Smart Contract Security and Security Auditing for a little less than a month. I have always found blockchain, Web3 and DeFi technology really interesting and I'm glad that I discovered the world of Smart Contract Development and Auditing. I started off doing Ethernaut challenges first, before moving to Damn Vulnerable Defi. Now with my improved knowledge and skills I will be transitioning to doing more Competitve Security Audits
+I'm a recent graduate from NUS Computer Science and I've been learning about the Smart Contract Security and Security Auditing since April 2025. I have always found blockchain, Web3 and DeFi technology really interesting and I'm glad that I discovered the world of Smart Contract Development and Auditing. I started off doing Ethernaut challenges first, before moving to Damn Vulnerable Defi. Now with my improved knowledge and skills I will be transitioning to doing more Competitve Security Audits
 
 This repo represents my journey and growth through practical contests. I can't wait for the day that I look through this repo and realise how much I've grown in this space.
 
