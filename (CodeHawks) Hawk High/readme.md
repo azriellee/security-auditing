@@ -1,4 +1,4 @@
-# Audit-1: Codehawks First Flights Rock Paper Scissors
+# Audit-2: Codehawks First Flights Hawk High
 
 Repo: https://github.com/azriellee/2025-05-hawk-high.git
 
