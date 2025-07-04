@@ -34,7 +34,7 @@ Results: 4 High, 1 Medium, 2 Low
 [L] `LevelOne:giveReview` Does Not Increment `reviewCount`
 [L] `LevelOne:graduateAndUpgrade` Can Be Called Before `sessionEnd` Reached
 
-### Findings Missed:
+### Severe Findings Missed:
 
 [H] No Mechanism to handle remaining bursary funds locked within contract
 [M] Unprotected Initialization
